@@ -1,4 +1,4 @@
-package it.agileday.backtobasics;
+package it.agileday.backtobasics.validators;
 
 
 public class TooFewPlayersExpection extends WrongNumberOfPlayerException {

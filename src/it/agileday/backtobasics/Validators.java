@@ -1,4 +1,5 @@
 package it.agileday.backtobasics;
+import it.agileday.backtobasics.validators.WrongNumberOfPlayerException;
 
 
 public class Validators implements Validator {

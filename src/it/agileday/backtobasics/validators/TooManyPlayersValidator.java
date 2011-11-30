@@ -1,4 +1,4 @@
-package it.agileday.backtobasics;
+package it.agileday.backtobasics.validators;
 import it.agileday.backtobasics.Player;
 import it.agileday.backtobasics.Validator;
 
